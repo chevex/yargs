@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [17.1.0](https://www.github.com/yargs/yargs/compare/v17.0.1...v17.1.0) (2021-07-19)
+
+
+### Features
+
+* update Levenshtein to Damerau-Levenshtein ([#1973](https://www.github.com/yargs/yargs/issues/1973)) ([d2c121b](https://www.github.com/yargs/yargs/commit/d2c121b00f2e1eb2ea8cc3a23a5039b3a4425bea))
+
+
+### Bug Fixes
+
+* coerce middleware should be applied once ([#1978](https://www.github.com/yargs/yargs/issues/1978)) ([14bd6be](https://www.github.com/yargs/yargs/commit/14bd6bebc3027ae929106b20dd198b9dccdeec31))
+* strict should fail unknown arguments ([#1977](https://www.github.com/yargs/yargs/issues/1977)) ([c804f0d](https://www.github.com/yargs/yargs/commit/c804f0db78e56b44341cc7a91878c27b1b68b9f2))
+
 ### [17.0.1](https://www.github.com/yargs/yargs/compare/v17.0.0...v17.0.1) (2021-05-03)
 
 
